@@ -169,6 +169,10 @@
       "result": false
     }
   ],
-  "voted": [],
+  "voted": [
+    {
+      "alma": "a"
+    }
+  ],
   "puans": []
 }
