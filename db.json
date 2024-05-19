@@ -169,6 +169,14 @@
       "result": false
     }
   ],
-  "voted": [],
-  "puans": []
+  "voted": [
+    {
+      "alm": "a"
+    }
+  ],
+  "puans": [
+    {
+      "heyva": "h"
+    }
+  ]
 }
