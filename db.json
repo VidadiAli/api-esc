@@ -169,6 +169,9 @@
       "result": false
     }
   ],
-  "voted": [],
+  "voted": [{
+    "countryName": "Türkiye",
+    "id": 1
+}],
   "puans": []
 }
