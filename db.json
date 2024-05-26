@@ -154,10 +154,10 @@
     },
     {
       "id": "20",
-      "countryName": "Switzerland",
+      "countryName": "Australia",
       "singerName": "Husso",
       "musicName": " Mama",
-      "flag": "https://cdn11.bigcommerce.com/s-2lbnjvmw4d/images/stencil/1280x1280/products/3177/5207/switzerlandflag__89866.1614611693.jpg",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
       "result": false
     },
     {
@@ -167,16 +167,6 @@
       "musicName": "Mama",
       "flag": "https://m.media-amazon.com/images/I/61ekcr30fgL._AC_UF894,1000_QL80_.jpg",
       "result": false
-    }
-  ],
-  "voted": [
-    {
-      "alm": "a"
-    }
-  ],
-  "puans": [
-    {
-      "heyva": "h"
     }
   ]
 }
