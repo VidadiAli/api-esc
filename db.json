@@ -6,7 +6,11 @@
       "singerName": "Atermisses",
       "musicName": "Mama",
       "flag": "https://cdn.britannica.com/37/5137-050-627F0A5F/flag-West-Virginia-Louisiana-Purchase-Exposition-design-1929.jpg",
-      "result": true
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=5wZVyxbG3Ic",
+      "semi": 1,
+      "puan1": 1.03,
+      "puan2": 1.03
     },
     {
       "id": "2",
@@ -14,7 +18,11 @@
       "singerName": "Nzzzl",
       "musicName": "Mama",
       "flag": "https://flagsireland.com/cdn/shop/products/MoroccoFlag.png?v=1679324882",
-      "result": true
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=iNinRh_L9jY",
+      "semi": 1,
+      "puan1": 1.01,
+      "puan2": 1.05
     },
     {
       "id": "3",
@@ -22,7 +30,11 @@
       "singerName": "Mehman",
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/1200px-Flag_of_Uganda.svg.png",
-      "result": true
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=DGLVVwKlOBI",
+      "semi": 1,
+      "puan1": 3,
+      "puan2": 3
     },
     {
       "id": "4",
@@ -30,15 +42,11 @@
       "singerName": "Fortem",
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1200px-Flag_of_Finland.svg.png",
-      "result": true
-    },
-    {
-      "id": "5",
-      "countryName": "Netherlands",
-      "singerName": "Jooé Klein",
-      "musicName": "Mama",
-      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png",
-      "result": true
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=fBv0mr7SWTs",
+      "semi": 1,
+      "puan1": 5,
+      "puan2": 8
     },
     {
       "id": "6",
@@ -46,7 +54,11 @@
       "singerName": "Gözəl",
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/800px-Flag_of_Luxembourg.svg.png",
-      "result": true
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=dGQpgmywN0w",
+      "semi": 1,
+      "puan1": 1.01,
+      "puan2": 1.01
     },
     {
       "id": "7",
@@ -54,7 +66,11 @@
       "singerName": "Narmin",
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png",
-      "result": true
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=ZpuIDkm5EKk",
+      "semi": 1,
+      "puan1": 1.04,
+      "puan2": 1.04
     },
     {
       "id": "8",
@@ -62,7 +78,11 @@
       "singerName": "VKS",
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/800px-Flag_of_Burkina_Faso.svg.png",
-      "result": true
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=rKKyGvCBAQU",
+      "semi": 1,
+      "puan1": 2,
+      "puan2": 2.2
     },
     {
       "id": "9",
@@ -70,15 +90,23 @@
       "singerName": "Fre",
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/2560px-Flag_of_Andorra.svg.png",
-      "result": true
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=VW3ujGr5eRg",
+      "semi": 1,
+      "puan1": 1,
+      "puan2": 1
     },
     {
       "id": "10",
       "countryName": "Belgium",
-      "singerName": "Sah!bx",
+      "singerName": "Sahib XXXV",
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/294px-Flag_of_Belgium.svg.png",
-      "result": true
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=pfil-dtLDHw",
+      "semi": 1,
+      "puan1": 8,
+      "puan2": 5
     },
     {
       "id": "11",
@@ -86,23 +114,11 @@
       "singerName": "Zhala",
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/800px-Flag_of_Serbia.svg.png",
-      "result": true
-    },
-    {
-      "id": "12",
-      "countryName": "Scotland",
-      "singerName": "Milan",
-      "musicName": "Mama",
-      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/383px-Flag_of_Scotland.svg.png",
-      "result": true
-    },
-    {
-      "id": "13",
-      "countryName": "Austria",
-      "singerName": "SÆFTER",
-      "musicName": "Mama",
-      "flag": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
-      "result": true
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=dW7OiF7UbKw",
+      "semi": 1,
+      "puan1": 1.9,
+      "puan2": 1.9
     },
     {
       "id": "14",
@@ -110,15 +126,11 @@
       "singerName": "Valeh",
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1200px-Flag_of_Poland.svg.png",
-      "result": true
-    },
-    {
-      "id": "15",
-      "countryName": "Azerbaijan",
-      "singerName": "Sa1",
-      "musicName": "Mama",
-      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png",
-      "result": true
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=8vJ1rwbQC70",
+      "semi": 1,
+      "puan1": 11,
+      "puan2": 13
     },
     {
       "id": "16",
@@ -126,7 +138,11 @@
       "singerName": "Kevin",
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1280px-Flag_of_Ukraine.svg.png",
-      "result": true
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=LoVj7XN0ntI",
+      "semi": 1,
+      "puan1": 1.8,
+      "puan2": 1.8
     },
     {
       "id": "17",
@@ -134,28 +150,60 @@
       "singerName": "Chess",
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/640px-Flag_of_Canada_%28Pantone%29.svg.png",
-      "result": true
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=rO7yorrmUVo",
+      "semi": 1,
+      "puan1": 1,
+      "puan2": 1.01
     },
     {
-      "id": "18",
-      "countryName": "Georgia",
-      "singerName": "Zhali",
+      "id": "9",
+      "countryName": "France",
+      "singerName": "Sliwomane",
       "musicName": "Mama",
-      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
-      "result": true
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/255px-Flag_of_France.svg.png",
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=EZgLjRgNNg0",
+      "semi": 3,
+      "puan1": 2,
+      "puan2": 1.9
+    },
+    {
+      "id": "36",
+      "countryName": "Switzerland",
+      "singerName": "Sabuhi",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/200px-Flag_of_Switzerland.svg.png",
+      "result": true,
+      "youtubeLink": "https://www.youtube.com/watch?v=S4XwfshwVzk",
+      "semi": 2,
+      "puan1": 2,
+      "puan2": 2
+    },
+    {
+      "id": "37",
+      "countryName": "Germany",
+      "singerName": "Salima",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+      "result": true,
+      "youtubeLink": "",
+      "semi": 2,
+      "puan1": 4,
+      "puan2": 5
     },
     {
       "id": "19",
-      "countryName": "Russia",
-      "singerName": "T.I.ViAl",
+      "countryName": "Cyprus",
+      "teleName": "T.I.ViAl",
       "musicName": "Mama",
-      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
       "result": false
     },
     {
       "id": "20",
       "countryName": "Australia",
-      "singerName": "Husso",
+      "teleName": "Husso",
       "musicName": " Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
       "result": false
@@ -163,7 +211,7 @@
     {
       "id": "21",
       "countryName": "World",
-      "singerName": "TARFİKKİ",
+      "teleName": "Tarlan",
       "musicName": "Mama",
       "flag": "https://m.media-amazon.com/images/I/61ekcr30fgL._AC_UF894,1000_QL80_.jpg",
       "result": false
